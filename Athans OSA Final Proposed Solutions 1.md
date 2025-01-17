@@ -73,7 +73,7 @@ Pada awal permainan, Parvez memilih bilangan $A = 52$. Selanjutnya, Sayed memili
 Pada akhir permainan, nilai $B = 0$ sehingga Sayed menang.
 
 <details>
-<summary>Proposed Answer</summary>
+<summary><h2>Proposed Answer</h2></summary>
 
 ```cpp
 #include <iostream>

@@ -49,7 +49,7 @@ Kronologi wawancara yang optimal adalah sebagai berikut.
 6. Seluruh wawancara selesai pada menit $13$.
 
 <details>
-<summary>Usulan Solusi</summary>
+<summary><h2>Usulan Solusi</h2></summary>
 
 ```cpp
 #include <iostream>
