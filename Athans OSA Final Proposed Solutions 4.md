@@ -72,7 +72,8 @@ Semut $1$ adalah yang tercepat dengan selisih kecepatan dengan semut lain sebaga
 - Dengan semut $3$, selisih $7$ mm/s
 - Dengan semut $4$, selisih $2$ mm/s
 
-<detail>
+<details>
+
 <summary><h2>Proposed Solution</h2></summary>
 
 Penyelesaian soal ini menggunakan Graf dan BFS.
@@ -144,4 +145,4 @@ int main() {
 }
 ```
 
-</detail>
+</details>
