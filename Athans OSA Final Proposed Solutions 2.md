@@ -48,7 +48,9 @@ Kronologi wawancara yang optimal adalah sebagai berikut.
 5. Dari menit $10$ sampai $13$, Fae mewawancarai peserta $2$.
 6. Seluruh wawancara selesai pada menit $13$.
 
-## Usulan Solusi
+<details>
+<summary>Usulan Solusi</summary>
+
 ```cpp
 #include <iostream>
 #include <vector>
@@ -94,3 +96,5 @@ int main() {
     return 0;
 }
 ```
+
+</details>

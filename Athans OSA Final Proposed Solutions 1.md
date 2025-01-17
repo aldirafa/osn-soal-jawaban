@@ -72,7 +72,9 @@ Pada awal permainan, Parvez memilih bilangan $A = 52$. Selanjutnya, Sayed memili
 
 Pada akhir permainan, nilai $B = 0$ sehingga Sayed menang.
 
-## Proposed Answer
+<details>
+<summary>Proposed Answer</summary>
+
 ```cpp
 #include <iostream>
 #include <vector>
@@ -106,3 +108,5 @@ int main() {
     return 0;
 }
 ```
+
+</details>
